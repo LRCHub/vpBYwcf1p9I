@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "說好的幸福呢",
+  "base_artist": "周杰倫",
+  "createdAt": "2026-02-20T18:05:44.945704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "說好的幸福呢 (Instrumental)",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/01_說好的幸福呢_(Instrumental)_Jay_Chou.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/02_說好的幸福呢_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/03_說好的幸福呢_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/04_說好的幸福呢_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "說好的幸福呢 + 淘汰 + 青花瓷",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/05_說好的幸福呢_+_淘汰_+_青花瓷_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "說好的幸福呢 淘汰 青花瓷",
+      "artist": "周杰倫",
+      "has_synced": false,
+      "path": "select/06_說好的幸福呢_淘汰_青花瓷_周杰倫.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "說好的幸福呢＋淘汰＋青花瓷",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/07_說好的幸福呢+淘汰+青花瓷_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "說好的幸福呢＋淘汰＋青花瓷",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/08_說好的幸福呢+淘汰+青花瓷_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/09_說好的幸福呢_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "ジェイ・チョウ",
+      "has_synced": true,
+      "path": "select/10_說好的幸福呢_ジェイ・チョウ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "說好的幸福呢 (The Promised Love)",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/11_說好的幸福呢_(The_Promised_Love)_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/12_說好的幸福呢_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/13_說好的幸福呢_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/14_說好的幸福呢_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "Jay Chou (周杰倫)",
+      "has_synced": true,
+      "path": "select/15_說好的幸福呢_Jay_Chou_(周杰倫).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "說好的幸福呢",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/16_說好的幸福呢_周杰倫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "說好的幸福呢",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_01_說好的幸福呢_Jay_Chou.txt"
+    }
+  ]
+}
